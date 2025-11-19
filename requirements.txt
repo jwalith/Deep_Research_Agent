@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langgraph
+langchain-community
+langchain-google-genai
+langchain-openai
+chromadb
+pypdf
+duckduckgo-search
+python-dotenv
+numpy<2
+streamlit
