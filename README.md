@@ -2,7 +2,8 @@
 
 A comprehensive research assistant that combines RAG (Retrieval-Augmented Generation) with web search to provide well-sourced, in-depth research reports.
 
-![Deep Research Agent Interface](screenshot.png)
+<img width="2557" height="1460" alt="Screenshot 2025-11-19 145814" src="https://github.com/user-attachments/assets/357bbf03-2c6f-40b3-8388-ff2da221237c" />
+
 
 ## Features
 
@@ -98,7 +99,5 @@ The agent generates structured research reports with proper citations:
 4. **Synthesis**: Combines information into a structured report
 5. **Citation**: Tracks and displays only sources actually used
 
----
 
-Built with ❤️ for comprehensive research and information synthesis.
 
